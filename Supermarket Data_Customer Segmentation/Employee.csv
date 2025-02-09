@@ -1,0 +1,81 @@
+,EmployeeID,EmployeeName,Position,StoreID,HireDate
+0,EID-9350,Tricia Takanawa,Supervisor,1,2017-06-26
+1,EID-8964,Brian Griffin,Stock Clerk,1,2017-08-08
+2,EID-1538,Carl,Cashier,1,2017-01-28
+3,EID-9264,Herbert,Cashier,1,2017-10-27
+4,EID-5241,Joe Swanson,Stock Clerk,1,2017-12-07
+5,EID-7198,Peter Griffin,Cashier,1,2017-10-25
+6,EID-7104,Diane Simmons,Customer Service,1,2017-09-07
+7,EID-4790,Seamus Levine,Manager,1,2017-09-20
+8,EID-6192,Opie,Cashier,1,2017-08-08
+9,EID-7463,Herbert,Supervisor,1,2017-07-21
+10,EID-9381,Brian Griffin,Manager,1,2018-01-22
+11,EID-3603,Mayor Adam West,Cashier,1,2018-06-07
+12,EID-4800,Dr. Hartman,Manager,1,2018-07-19
+13,EID-1826,Barbara Pewterschmidt,Supervisor,1,2018-07-18
+14,EID-2528,Bonnie Swanson,Manager,1,2018-09-02
+15,EID-9645,Seamus Levine,Stock Clerk,1,2018-03-25
+16,EID-5422,Mort Goldman,Supervisor,1,2018-05-25
+17,EID-4208,Mayor Adam West,Cashier,1,2018-07-12
+18,EID-2569,Greased-Up Deaf Guy,Manager,1,2018-10-20
+19,EID-6604,Peter Griffin,Supervisor,1,2018-10-21
+20,EID-1251,Tom Tucker,Cashier,1,2019-09-23
+21,EID-3368,Glenn Quagmire,Manager,1,2019-02-26
+22,EID-1109,Carl,Customer Service,1,2019-04-17
+23,EID-7283,Mort Goldman,Manager,1,2019-01-02
+24,EID-3989,Carter Pewterschmidt,Cashier,1,2019-09-10
+25,EID-5724,Stewie Griffin,Stock Clerk,1,2019-12-08
+26,EID-9570,Greased-Up Deaf Guy,Supervisor,1,2019-01-08
+27,EID-3308,Mr. Weed,Supervisor,1,2019-07-16
+28,EID-7879,Joe Swanson,Manager,1,2019-11-15
+29,EID-5357,Mort Goldman,Stock Clerk,1,2019-04-26
+30,EID-8183,Jasper,Manager,1,2020-11-09
+31,EID-6697,Barbara Pewterschmidt,Customer Service,1,2020-11-11
+32,EID-6439,Brian Griffin,Customer Service,1,2020-02-23
+33,EID-3609,Brian Griffin,Stock Clerk,1,2020-09-17
+34,EID-2799,Herbert,Stock Clerk,1,2020-12-21
+35,EID-7897,Lois Griffin,Stock Clerk,1,2020-10-27
+36,EID-8836,Chris Griffin,Customer Service,1,2020-03-14
+37,EID-4181,Glenn Quagmire,Stock Clerk,1,2020-03-19
+38,EID-8638,Carl,Cashier,1,2020-11-05
+39,EID-3081,Death,Manager,1,2020-09-15
+40,EID-2945,Stewie Griffin,Supervisor,1,2019-10-19
+41,EID-2359,Mayor Adam West,Customer Service,1,2019-10-08
+42,EID-8554,Diane Simmons,Cashier,1,2020-04-05
+43,EID-2927,Jillian Russell-Wilcox,Manager,1,2018-04-03
+44,EID-1559,Death,Supervisor,1,2019-02-09
+45,EID-4794,Tom Tucker,Customer Service,1,2018-03-15
+46,EID-6710,Jillian Russell-Wilcox,Stock Clerk,1,2021-12-02
+47,EID-6968,Bruce,Cashier,1,2019-08-16
+48,EID-7767,Consuela,Cashier,1,2019-10-26
+49,EID-3572,Tom Tucker,Manager,1,2018-04-01
+50,EID-3319,Bruce,Supervisor,1,2022-12-08
+51,EID-1707,Death,Cashier,1,2022-04-07
+52,EID-7940,Barbara Pewterschmidt,Stock Clerk,1,2021-02-08
+53,EID-2646,Chris Griffin,Customer Service,1,2020-03-27
+54,EID-3962,Chris Griffin,Stock Clerk,1,2019-07-16
+55,EID-6921,Mayor Adam West,Supervisor,1,2020-06-12
+56,EID-1364,Cleveland Brown,Cashier,1,2020-09-18
+57,EID-1328,Carl,Customer Service,1,2020-08-01
+58,EID-3591,Meg Griffin,Customer Service,1,2021-12-23
+59,EID-6003,Stewie Griffin,Stock Clerk,1,2021-11-04
+60,EID-9804,Tom Tucker,Manager,1,2021-02-26
+61,EID-8424,Death,Stock Clerk,1,2021-07-20
+62,EID-5268,Mort Goldman,Stock Clerk,1,2022-04-07
+63,EID-4080,Bonnie Swanson,Cashier,1,2021-12-11
+64,EID-7964,Carl,Manager,1,2022-10-09
+65,EID-7911,Opie,Supervisor,1,2022-12-08
+66,EID-2821,Dr. Hartman,Stock Clerk,1,2022-08-10
+67,EID-4635,Jillian Russell-Wilcox,Manager,1,2020-09-20
+68,EID-2796,Jasper,Manager,1,2023-07-24
+69,EID-9051,Herbert,Cashier,1,2021-06-27
+70,EID-7660,Mort Goldman,Customer Service,1,2023-09-01
+71,EID-8423,Brian Griffin,Manager,1,2021-01-02
+72,EID-3350,Cleveland Brown,Cashier,1,2022-07-12
+73,EID-2164,Angela,Stock Clerk,1,2022-01-14
+74,EID-9864,Mr. Weed,Cashier,1,2024-11-03
+75,EID-7665,Greased-Up Deaf Guy,Stock Clerk,1,2024-07-21
+76,EID-8457,Cleveland Brown,Stock Clerk,1,2021-11-21
+77,EID-2877,Seamus Levine,Stock Clerk,1,2022-02-20
+78,EID-8833,Peter Griffin,Supervisor,1,2022-10-03
+79,EID-9275,Mayor Adam West,Customer Service,1,2021-06-18

@@ -4,8 +4,8 @@
 This repository contains the **RFM (Recency, Frequency, Monetary) Analysis** notebook used for customer segmentation. The analysis aims to segment customers based on their purchasing behavior, which helps businesses identify high-value customers and tailor marketing strategies accordingly.
 
 ## Project Structure
-**Data**: The folder where datasets used for analysis are stored (e.g., CSV files).
-**Preprocessing in Databricks**: several preprocessing steps were performed to clean and prepare the data for analysis.
+**Data**: The folder where datasets used for analysis are stored (e.g., CSV files).\n
+**Preprocessing in Databricks**: several preprocessing steps were performed to clean and prepare the data for analysis.\n
 **RFM_Analysis**: The main notebook containing the RFM analysis process.
 
 ## Steps Involved in RFM Analysis

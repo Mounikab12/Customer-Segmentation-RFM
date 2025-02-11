@@ -9,10 +9,11 @@ RFM Analysis helps businesses identify high-value customers and optimize marketi
 
 RFM Analysis helps businesses identify their best customers and create personalized marketing campaigns.
 
-This project uses real-world customer data to apply RFM segmentation.
-
 ## Overview
 This repository contains the **RFM (Recency, Frequency, Monetary) Analysis** notebook used for customer segmentation. The analysis aims to segment customers based on their purchasing behavior, which helps businesses identify high-value customers and tailor marketing strategies accordingly.
+
+This project uses real-world customer data to apply RFM segmentation.
+
 
 
 ## Project Structure
@@ -54,15 +55,11 @@ This repository contains the **RFM (Recency, Frequency, Monetary) Analysis** not
 
    This shows the value of the customer based on their spending.
 
-✅ Implemented Multiple RFM Segmentation Techniques:
+✅ Calculated RFM scores with Techniques:
 
-* Simple Quartile-Based Segmentation (Divided RFM values into quartiles)
-* Separate R, F, M Analysis (Analyzed each RFM metric separately)
+* Simple Quartile Method (Divided RFM values into quartiles)
+* Separate R, F, M Analysis - Tertiary Segmentation (Analyzed each RFM metric separately)
 * Rank & Normalization Approach (Used z-score and Min-Max scaling for better comparability)
-
-✅ RFM Score Segmentation (Summed up RFM ranks to assign customer segments)
-
-✅ Different Quartile EDA for Top Customers (Explored quartiles differently to spot key customers)
 
 ✅ Applied Data Transformations:
 
@@ -71,8 +68,7 @@ This repository contains the **RFM (Recency, Frequency, Monetary) Analysis** not
   
 ✅ Clustered Customers for Advanced Segmentation:
 
-* K-Means Clustering for unsupervised segmentation
-* Elbow Method & Silhouette Score to determine optimal clusters
+* K-Means Clustering for unsupervised segmentation and used Evaluation metrics
   
 ✅ Generated Final Customer Segments & Insights:
 
@@ -82,9 +78,9 @@ This repository contains the **RFM (Recency, Frequency, Monetary) Analysis** not
 
 
 ## Key Insights
-- Identify **high-value customers** for targeted marketing.
-- Segment customers into **different groups** based on their RFM scores.
-- Optimize **marketing campaigns** to retain loyal customers and improve acquisition strategies for less engaged customers.
+- Identified **high-value customers** for targeted marketing.
+- Segmented customers into **different groups** based on their RFM scores.
+- Performed **Analytics** to retain loyal customers and improve acquisition strategies for less engaged customers.
 
 
 

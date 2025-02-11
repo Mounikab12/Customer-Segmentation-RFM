@@ -16,9 +16,9 @@ This repository contains the **RFM (Recency, Frequency, Monetary) Analysis** not
 
 
 ## Project Structure
-📌 **Data**: The folder where datasets used for analysis are stored (e.g., CSV files).
+📌 [**Data**](Supermarket Data_Customer Segmentation): The folder where datasets used for analysis are stored (e.g., CSV files).
 
-📌 **Data Processing in Databricks**: several preprocessing steps were performed to clean and prepare the data for analysis.
+📌 [**Data Processing in Databricks**](RFM_Preprocessing.ipynb): several preprocessing steps were performed to clean and prepare the data for analysis.
 
 ✅ Loaded & Explored Data (CSV files into Databricks)
 
@@ -30,7 +30,7 @@ This repository contains the **RFM (Recency, Frequency, Monetary) Analysis** not
 
 ✅ Applied Joins & Aggregations (Merged datasets based on customer ID)
 
-📌 **RFM Analysis & Modeling in Jupyter Notebook**:
+📌 [**RFM Analysis & Modeling in Jupyter Notebook**](RFM_Analysis.ipynb):
 
 ✅ Loaded Preprocessed Data from Databricks into Jupyter Notebook
 
@@ -73,7 +73,7 @@ This shows the value of the customer based on their spending.
   
 ✅ Generated Final Customer Segments & Insights:
 
-Identified Best (High-Value), At-Risk, and Dormant Customers
+* Identified Best (High-Value), At-Risk, and Dormant Customers
 
 ✅ Prepared data for Power BI Dashboard visualization
 

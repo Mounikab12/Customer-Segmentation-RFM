@@ -1,5 +1,7 @@
 # RFM Analysis for Customer Segmentation
 
+!['RFM segments'](1588440796258.png)
+
 ## Overview
 This repository contains the **RFM (Recency, Frequency, Monetary) Analysis** notebook used for customer segmentation. The analysis aims to segment customers based on their purchasing behavior, which helps businesses identify high-value customers and tailor marketing strategies accordingly.
 

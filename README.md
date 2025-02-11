@@ -18,15 +18,22 @@ This repository contains the **RFM (Recency, Frequency, Monetary) Analysis** not
 ## Project Structure
 📌 **Data**: The folder where datasets used for analysis are stored (e.g., CSV files).
 
-📌 **Data Processing in Databricks** several preprocessing steps were performed to clean and prepare the data for analysis.
+📌 **Data Processing in Databricks**: several preprocessing steps were performed to clean and prepare the data for analysis.
+
 ✅ Loaded & Explored Data (CSV files into Databricks)
+
 ✅ Checked for Missing Values & Duplicates (Handled null values & removed duplicate transactions)
+
 ✅ Transformed Data Types 
+
 ✅ Performed Data Filtering 
+
 ✅ Applied Joins & Aggregations (Merged datasets based on customer ID)
 
-📌 RFM Analysis & Modeling in Jupyter Notebook
+📌 **RFM Analysis & Modeling in Jupyter Notebook**:
+
 ✅ Loaded Preprocessed Data from Databricks into Jupyter Notebook
+
 ✅ Performed RFM Computations
   
 1. **Recency** (R): Days since last purchase
@@ -51,7 +58,9 @@ This shows the value of the customer based on their spending.
 * Rank & Normalization Approach (Used z-score and Min-Max scaling for better comparability)
 
 ✅ RFM Score Segmentation (Summed up RFM ranks to assign customer segments)
+
 ✅ Different Quartile EDA for Top Customers (Explored quartiles differently to spot key customers)
+
 ✅ Applied Data Transformations:
 
 * Log Transformation to handle skewness in Frequency & Monetary values

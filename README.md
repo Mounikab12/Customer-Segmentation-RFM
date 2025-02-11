@@ -1,6 +1,12 @@
 # RFM Analysis for Customer Segmentation
 
-!['RFM segments'](Customers_segmented.png)
+(Customers_segmented.png)
+
+**Why Customer Segmentation?
+Understanding customer behavior is crucial for targeted marketing. 
+RFM Analysis helps businesses identify high-value customers and optimize marketing strategies.
+RFM Analysis helps businesses identify their best customers and create personalized marketing campaigns.
+This project uses real-world customer data to apply RFM segmentation.
 
 ## Overview
 This repository contains the **RFM (Recency, Frequency, Monetary) Analysis** notebook used for customer segmentation. The analysis aims to segment customers based on their purchasing behavior, which helps businesses identify high-value customers and tailor marketing strategies accordingly.

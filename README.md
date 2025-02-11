@@ -1,6 +1,6 @@
 # RFM Analysis for Customer Segmentation
 
-(Customers_segmented.png)
+![](Customers_segmented.png)
 
 **Why Customer Segmentation?
 Understanding customer behavior is crucial for targeted marketing. 

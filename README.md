@@ -16,7 +16,7 @@ This repository contains the **RFM (Recency, Frequency, Monetary) Analysis** not
 
 
 ## Project Structure
-📌 [**Data**](Supermarket Data_Customer Segmentation): The folder where datasets used for analysis are stored (e.g., CSV files).
+📌 **Data**: The folder where datasets used for analysis are stored (e.g., CSV files).
 
 📌 [**Data Processing in Databricks**](RFM_Preprocessing.ipynb): several preprocessing steps were performed to clean and prepare the data for analysis.
 
@@ -37,19 +37,22 @@ This repository contains the **RFM (Recency, Frequency, Monetary) Analysis** not
 ✅ Performed RFM Computations
   
 1. **Recency** (R): Days since last purchase
-How recently did the customer make a purchase?  
+   
+   How recently did the customer make a purchase?  
 
-This metric identifies the freshness of the customer’s last purchase.
+   This metric identifies the freshness of the customer’s last purchase.
    
 2. **Frequency** (F): Number of transactions
-How often does the customer make a purchase?
+   
+   How often does the customer make a purchase?
 
-This indicates how loyal the customer is to the brand.
+   This indicates how loyal the customer is to the brand.
    
 3. **Monetary** (M): Total purchase amount
-How much money did the customer spend?
+   
+   How much money did the customer spend?
 
-This shows the value of the customer based on their spending.
+   This shows the value of the customer based on their spending.
 
 ✅ Implemented Multiple RFM Segmentation Techniques:
 
